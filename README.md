@@ -8,8 +8,8 @@
 
 ### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+[![Deploy](https://github.com/Xrsirx5/Alifbot)](https://heroku.com/deploy)
+https://www.herokucdn.com/deploy/button.svg
 
 ### Hard Way
 
